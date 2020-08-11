@@ -17,4 +17,4 @@ The same DNA sequence is also saved in a text file named "Encoded_DNA.txt".
 This program takes the Encoded_DNA.txt file as input to read the Encrypted DNA sequence.
 The program then decrypt the encrypted DNA sequence to get the secret message and gives the secret message as oputput
 
-The secret message is also saves in a text file named "Message.txt".
+The secret message is also saved in a text file named "Message.txt".
